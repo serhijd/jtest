@@ -1,0 +1,1 @@
+It is Java test repository to learn how IDEA works with Github
